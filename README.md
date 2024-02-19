@@ -3,7 +3,7 @@ T2TRG Interim Meeting on IoT security implementation, operation, and systems asp
 
 Co-located with the ["Hackathon on Lightweight IoT Security"](https://parishackathon.lakewg.org/program/) in Paris on May 21/22 2024.
 
-This interim will start with a hybrid (online/presence) meeting from 17:00 to 18:45 (CEST, i.e. 1500Z to 1645Z) on May 21st.  
+This interim will start with a hybrid (online/on-site) meeting from 17:00 to 18:45 (CEST, i.e. 1500Z to 1645Z) on May 21st.  
 We also will have an opportunity to run some ad-hoc breakout meetings (also hybrid) on May 22nd in the morning.
 
 Local time in various locations:<br>
