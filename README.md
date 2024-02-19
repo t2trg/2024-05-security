@@ -18,9 +18,9 @@ as well: https://parishackathon.lakewg.org/register-here/
 
 ## Logistics
 
-TBD
+The interim meeting will take place at the premises of Inria Paris. See the [hackathon venue](https://parishackathon.lakewg.org/venue/) page for more details. 
 
-Meetecho: TBD
+We plan to provide a WebEx remote participation option.
 
 ## Materials
 
