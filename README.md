@@ -1,4 +1,4 @@
-# T2TRG 2024-05 Interim Meeting on IoT security
+# T2TRG 2024-05 Interim Meeting on IoT Security
 T2TRG Interim Meeting on IoT security implementation, operation, and systems aspects.
 
 Co-located with the ["Hackathon on Lightweight IoT Security"](https://parishackathon.lakewg.org/program/) in Paris on May 21/22 2024.
