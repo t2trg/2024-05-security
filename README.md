@@ -9,7 +9,7 @@ We also will have an opportunity to run some ad-hoc breakout meetings (also hybr
 Local time in various locations:<br>
 https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+interim+on+security&iso=20240521T15&ah=1<br>
 
-## Topics
+## Topic
 
 IoT is moving away from closely coupling devices to a vendor cloud, towards enabling their integration into an infrastructure run by the device's operator or third parties of the device operator's choice.  This is especially true in traditional OT environments such as factories and commercial buildings.  The focus is shifting away from the connections that move data, towards the data themselves, including data about devices and their relationships.  Security is the crucial enabler, but can only work if it is well-informed about the structure of the data and the processes.
 
@@ -45,7 +45,7 @@ This will start with a hybrid (online/on-site) meeting from 17:00 to 18:45 (CEST
 
 TBD
 
-## Draft agenda
+## Draft Agenda
 
 Please contact the [chairs][] for topic proposals or any other requests.
 
