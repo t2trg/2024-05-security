@@ -39,6 +39,8 @@ The interim meeting will take place at the premises of Inria Paris. See the [hac
 
 We plan to provide a WebEx remote participation option using Inria's in-room system.
 
+This will start with a hybrid (online/on-site) meeting from 17:00 to 18:45 (CEST, i.e. 1500Z to 1645Z) on May 21st.  We also will have an opportunity to run some ad-hoc breakout meetings (also hybrid) on May 22nd in the morning.
+
 ## Materials
 
 TBD
