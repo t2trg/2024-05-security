@@ -15,11 +15,11 @@ IoT is moving away from closely coupling devices to a vendor cloud, towards enab
 
 The usual areas of work continue to apply:
 
-- Secure communication in structured groups and distributed environments 
+- Secure communication in structured groups and distributed environments
 - Communication of security-relevant properties (provenance, posture, ...)
 - Resilience against system security lapses (IoT device, distributed application components -- having enough information to be able to detect and react to unexpected situations)
 
-However, these now need to be seen in the context of the emerging **device/infrastructure continuum**.  We plan to explore how devices and infrastructure can be melded more closely together so the device can rely on the infrastructure for some of its tasks and the infrastructure knows what to expect from the device. This includes looking at what the points of interaction are between components, both inside and between domains of authority. 
+However, these now need to be seen in the context of the emerging **device/infrastructure continuum**.  We plan to explore how devices and infrastructure can be melded more closely together so the device can rely on the infrastructure for some of its tasks and the infrastructure knows what to expect from the device. This includes looking at what the points of interaction are between components, both inside and between domains of authority.
 Moving from a connection-oriented infrastructure to a data-oriented infrastructure enables rapid and sustainable application development, as well as more efficient transfer of information by the infrastructure that can leverage the knowledge of the purpose and expectations of the data and devices.
 Elements enabling this continuum include distributed applications, distributed AI, efficient protocols that make use of the friends in the network, device management capabilities, etc. Open research issues include scalable and efficient modeling of data, naming data, proving provenance for processed and aggregated data, discovery and distribution of data, secure distributed processing of data.
 
@@ -51,7 +51,10 @@ Please contact the [chairs][] for topic proposals or any other requests.
 
 | Time (UTC) | Who            | Subject                                                                      | Docs                                         |
 | ---------- | -------------- | ---------------------------------------------------------------------------- | -------------------------------------------- |
+| 2024-05-21 |                |                                                                              |                                              |
 |      15:00 | Chairs         | Intro                                                                        |                                              |
 |      16:45 | Chairs         | end of day #1                                                                |                                              |
+| 2024-05-22 |                |                                                                              |                                              |
+|    morning |                | Room for breakout discussions                                                |                                              |
 
 [chairs]: mailto:t2trg-chairs@irtf.org
