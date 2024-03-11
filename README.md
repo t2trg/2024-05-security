@@ -54,7 +54,7 @@ Please contact the [chairs][] for topic proposals or any other requests.
 | 2024-05-21 |                |                                                                              |                                              |
 |      15:00 | Chairs         | Intro                                                                        |                                              |
 |      15:10 | (you)          | (your topic)                                                                 |                                              |
-|      16:45 | Chairs         | end of day #1                                                                |                                              |
+|      16:45 | Chairs         | wrapup, end of day #1                                                        |                                              |
 | 2024-05-22 |                |                                                                              |                                              |
 |    morning | ad-hoc         | Room for breakout discussions                                                |                                              |
 
