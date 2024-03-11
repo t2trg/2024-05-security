@@ -28,7 +28,7 @@ We invite academics, engineers, and practitioners working on related topics to j
 
 ## Registration
 
-Please indicate your interest by registering (preferably before 2024-03-03) at: https://forms.gle/BQdpTshct1s7zRGj8
+Please indicate your interest by registering at: https://forms.gle/BQdpTshct1s7zRGj8
 
 If you plan to be present physically, please register for the hackathon
 as well: https://parishackathon.lakewg.org/register-here/
