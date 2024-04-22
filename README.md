@@ -56,7 +56,7 @@ Please contact the [chairs][] for topic proposals or any other requests.
 | 2024-05-21 |                |                                                                                               |         |
 |      15:00 | Chairs         | Intro                                                                                         |         |
 |      15:10 | Ari Keränen    | Secure In-network Data Fabric for IoT applications                                            |         |
-|      15:27 | Abhishek Kumar | How can AI be distributed in the computing continuum? introducing the neural pub/sub paradigm |         |
+|      15:27 | Abhishek Kumar | How can AI be distributed in the computing continuum? Introducing the neural pub/sub paradigm | [paper](https://arxiv.org/abs/2309.02058)|
 |      15:44 | Renzo Navas    | TBD (State of the Art in Quantum-safe KEM/Signature for IoT/OT)                               |         |
 |      16:01 | Marco Tiloca   | Distribution of Software Updates with End-to-End Secure Group Communication for CoAP          |         |
 |      16:18 | Rikard Höglund | Using onion routing with CoAP                                                                 |         |
