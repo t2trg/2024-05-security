@@ -59,7 +59,7 @@ Please contact the [chairs][] for topic proposals or any other requests.
 |      15:27 | Abhishek Kumar | How can AI be distributed in the computing continuum? Introducing the neural pub/sub paradigm | [paper](https://arxiv.org/abs/2309.02058)|
 |      15:44 | Renzo Navas    | TBD (State of the Art in Quantum-safe KEM/Signature for IoT/OT)                               |         |
 |      16:01 | Marco Tiloca   | Distribution of Software Updates with End-to-End Secure Group Communication for CoAP          |         |
-|      16:18 | Rikard Höglund / Christian Amsüss | Using onion routing with CoAP                                              | [draft](https://datatracker.ietf.org/doc/draft-amsuess-t2trg-onion-coap/)|
+|      16:18 | Rikard Höglund | Using onion routing with CoAP                                                                 | [draft](https://datatracker.ietf.org/doc/draft-amsuess-t2trg-onion-coap/)|
 |      16:35 | Chairs         | Wrapup                                                                                        |         |
 |      16:50 | Chairs         | End of day #1                                                                                 |         |
 | 2024-05-22 |                |                                                                                               |         |
