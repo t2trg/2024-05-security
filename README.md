@@ -51,18 +51,21 @@ TBD
 
 Please contact the [chairs][] for topic proposals or any other requests.
 
-| Time (UTC) | Who            | Subject                                                                                       | Remarks |
-|------------|----------------|-----------------------------------------------------------------------------------------------|---------|
-| 2024-05-21 |                |                                                                                               |         |
-|      15:00 | Chairs         | Intro                                                                                         |         |
-|      15:10 | Ari Keränen    | Secure In-network Data Fabric for IoT applications                                            |         |
-|      15:27 | Abhishek Kumar | How can AI be distributed in the computing continuum? Introducing the neural pub/sub paradigm | [paper](https://arxiv.org/abs/2309.02058)|
-|      15:44 | Renzo Navas    | TBD (State of the Art in Quantum-safe KEM/Signature for IoT/OT)                               |         |
-|      16:01 | Marco Tiloca   | Distribution of Software Updates with End-to-End Secure Group Communication for CoAP          |         |
-|      16:18 | Rikard Höglund | Using onion routing with CoAP                                                                 | [draft](https://datatracker.ietf.org/doc/draft-amsuess-t2trg-onion-coap/)|
-|      16:35 | Chairs         | Wrapup                                                                                        |         |
-|      16:50 | Chairs         | End of day #1                                                                                 |         |
-| 2024-05-22 |                |                                                                                               |         |
-|    morning | ad-hoc         | Room for breakout discussions                                                                 |         |
+| Time (UTC) | Who            | Subject                                                                                       | Remarks   |
+|------------|----------------|-----------------------------------------------------------------------------------------------|-----------|
+| 2024-05-21 |                |                                                                                               |           |
+|      15:00 | Chairs         | Intro                                                                                         |           |
+|      15:10 | Ari Keränen    | Secure In-network Data Fabric for IoT applications                                            |           |
+|      15:27 | Abhishek Kumar | How can AI be distributed in the computing continuum? Introducing the neural pub/sub paradigm | [paper][] |
+|      15:44 | Renzo Navas    | Post-Quantum Cryptography: Overview and IoT Standardisation Perspectives                      |           |
+|      16:01 | Marco Tiloca   | Distribution of Software Updates with End-to-End Secure Group Communication for CoAP          |           |
+|      16:18 | Rikard Höglund | Using onion routing with CoAP                                                                 | [draft][] |
+|      16:35 | Chairs         | Wrapup                                                                                        |           |
+|      16:50 | Chairs         | End of day #1                                                                                 |           |
+| 2024-05-22 |                |                                                                                               |           |
+|    morning | ad-hoc         | Room for breakout discussions                                                                 |           |
 
 [chairs]: mailto:t2trg-chairs@irtf.org
+[paper]: https://arxiv.org/abs/2309.02058
+[draft-dt]: https://datatracker.ietf.org/doc/draft-amsuess-t2trg-onion-coap/
+[draft]: https://www.ietf.org/archive/id/draft-amsuess-t2trg-onion-coap-01.html
