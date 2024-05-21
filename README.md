@@ -39,7 +39,7 @@ The interim meeting will take place at the premises of Inria Paris. See the [hac
 
 There is no attendance fee and the meeting is open for everyone to register and join.
 
-Webex for remote participants: [https://datatracker.ietf.org/meeting/interim-2024-t2trg-01/session/t2trg](https://datatracker.ietf.org/meeting/interim-2024-t2trg-01/session/t2trg)
+Webex for remote participants: https://ietf.webex.com/ietf/j.php?MTID=ma80d5cdef59bfe4ea73960d78b18d6f0
 
 This will start with a hybrid (online/on-site) meeting from 17:00 to 18:45 (CEST, i.e. 1500Z to 1645Z) on May 21st.  We also will have an opportunity to run some ad-hoc breakout meetings (also hybrid) on May 22nd in the morning.
 
