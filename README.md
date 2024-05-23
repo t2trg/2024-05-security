@@ -45,7 +45,7 @@ This will start with a hybrid (online/on-site) meeting from 17:00 to 18:45 (CEST
 
 ## Materials
 
-TBD
+See the IETF Data Tracker page for the meeting: https://datatracker.ietf.org/meeting/interim-2024-t2trg-01/session/t2trg
 
 ## Draft Agenda
 
